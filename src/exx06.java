@@ -19,5 +19,7 @@ public class exx06 {
         }else {
             System.out.println("Seu cupon não exite, o valor do produto fica R$ " + valor + " reais");
         }
+        leitor.close();
     }
+
 }

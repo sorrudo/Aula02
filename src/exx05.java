@@ -24,5 +24,6 @@ public class exx05 {
                 System.out.println("O Drone vai carregar primeiro o 3° peso indicado");
             }
         }
+        leitor.close();
     }
 }
