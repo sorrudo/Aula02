@@ -16,5 +16,6 @@ public class exx02 {
         segundo = minuto * 60;
         System.out.println("A duração do filme em horas é: " + horas);
         System.out.println("A duração do filme em segundo é: " + segundo);
+        leitor.close();
     }
 }
